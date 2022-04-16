@@ -1,0 +1,15 @@
+.hr-line {
+    height: 1px;
+    width: 50%;
+    background-color: blueviolet;
+}
+
+.hr-container {
+    display: flex;
+    align-items: center;
+}
+
+.or {
+    margin-top:  12px;
+    padding: 5px;
+}
